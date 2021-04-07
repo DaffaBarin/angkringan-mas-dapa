@@ -45,7 +45,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     @media (max-width:768px){
     
     .main_menu_bg a.navbar-brand.our_logo{
-        top:-45px;
+        top:-55px;
         width: 50%;
     }
     .single_monail_apps_text {
@@ -70,16 +70,19 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
         background: rgba(0, 0, 0, .45);
         margin-top: 14px;
     }
+    .main_slider .main_slider_content h1 {
+        font-size: 4rem;
+    }
     
     }
     
     
     @media (min-width:320px) and (max-width:480px){
     
+
     .header_top_menu .call_us_text{
         display:none !important;
     }
-    
         
     .single_monail_apps_text {
         margin-top: 40px;
@@ -90,12 +93,12 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
 
     .main_slider .main_slider_content h1 {
         font-size: 4rem;
-    
     }
 
     .portfolio iframe{
         width: 300px;
     }
+
 
 }
     
