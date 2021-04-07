@@ -60,24 +60,27 @@ h1{font-size:90%;}
 
 @media screen (min-width:320px) and (max-width:480px){
 
-    .header_top_menu .call_us_text{
-        display:none !important;
-    }
-    .main_menu_bg a.navbar-brand.our_logo{
-        top: -78px;
-        width: 35%;
-    }
-        
     .single_monail_apps_text {
         margin-top: 40px;
     }
     .main_mobail_apps_content img{
         text-align: right;
     }
-    .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
-        top: -16px;
-        width: 60%;
-    }
     
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+        background-color: #E7A331;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: #fff;
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border-color: transparent;
+        border: 0px;
+        background: rgba(0, 0, 0, .45);
+        margin-top: 14px;
+    }
 
 }
