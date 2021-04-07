@@ -24,14 +24,6 @@ h1{font-size:90%;}
 .single_monail_apps_text a{
     margin-right:5px;
 }
-.main_menu_bg a.navbar-brand.our_logo{
-	top: -77px;
-	width: 40%;
-}
-.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
-    top: -16px;
-    width: 35%;
-}	
 }
 
 
@@ -39,10 +31,6 @@ h1{font-size:90%;}
 
 @media (max-width:768px){
 
-.main_menu_bg a.navbar-brand.our_logo{
-    top: -30px;
-    width: 50%;
-}
 	
 .single_monail_apps_text {
     margin-top: 40px;
@@ -50,10 +38,7 @@ h1{font-size:90%;}
 .main_mobail_apps_content img{
     text-align: right;
 }
-.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
-    top: -30px;
-    width: 50%;
-}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
@@ -75,23 +60,24 @@ h1{font-size:90%;}
 
 @media screen (min-width:320px) and (max-width:480px){
 
-.header_top_menu .call_us_text{
-	display:none !important;
-}
-.main_menu_bg a.navbar-brand.our_logo{
-    top: -78px;
-    width: 35%;
-}
-	
-.single_monail_apps_text {
-    margin-top: 40px;
-}
-.main_mobail_apps_content img{
-    text-align: right;
-}
-.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
-    top: -16px;
-    width: 60%;
-}
+    .header_top_menu .call_us_text{
+        display:none !important;
+    }
+    .main_menu_bg a.navbar-brand.our_logo{
+        top: -78px;
+        width: 35%;
+    }
+        
+    .single_monail_apps_text {
+        margin-top: 40px;
+    }
+    .main_mobail_apps_content img{
+        text-align: right;
+    }
+    .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+        top: -16px;
+        width: 60%;
+    }
+    
 
 }
