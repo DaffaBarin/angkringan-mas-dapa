@@ -45,7 +45,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     @media (max-width:768px){
     
     .main_menu_bg a.navbar-brand.our_logo{
-        top:-45px;
+        top:-55px;
         width: 50%;
     }
     .single_monail_apps_text {
@@ -76,10 +76,10 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     
     @media (min-width:320px) and (max-width:480px){
     
+
     .header_top_menu .call_us_text{
         display:none !important;
     }
-    
         
     .single_monail_apps_text {
         margin-top: 40px;
@@ -92,4 +92,5 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
         font-size: 4rem;
     
     }
+}
     
