@@ -94,5 +94,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     .main_slider .main_slider_content h1 {
         font-size: 4rem;
     }
+
+    .portfolio iframe{
+        width: 300px;
+    }
+
+
 }
     
