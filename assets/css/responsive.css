@@ -78,7 +78,10 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     
     
     @media (min-width:320px) and (max-width:480px){
-    
+    .main_menu_bg a.navbar-brand.our_logo{
+        top:-15px;
+        width: 50%;
+    }
 
     .header_top_menu .call_us_text{
         display:none !important;
