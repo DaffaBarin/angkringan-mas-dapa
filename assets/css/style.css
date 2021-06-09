@@ -988,6 +988,7 @@ font-size: 6rem;
 
 .float{
 	position:fixed;
+    z-index: 99;
 	width:60px;
 	height:60px;
 	bottom:40px;
